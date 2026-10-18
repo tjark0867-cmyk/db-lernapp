@@ -1,0 +1,211 @@
+[
+ {
+  "build": 36,
+  "name": "3.6",
+  "date": "2026-10-16",
+  "notes": "Updates kommen ab jetzt automatisch über GitHub – diese Version ist in der App eingebaut",
+  "gz": {
+   "file": "app/36.gz.bin",
+   "size": 787612,
+   "sha256": "8c09949da919f4ced76eb4cdade64c35f1313ec69375fd4483bea1ca86bbab4b"
+  }
+ },
+ {
+  "build": 37,
+  "name": "3.7",
+  "date": "2026-10-16",
+  "notes": "Test: blauer Knopf zum Prüfen der Updates",
+  "gz": {
+   "file": "app/37.gz.bin",
+   "size": 788112,
+   "sha256": "f5e0265b493167b1d4489cff719ba17aeb57fa219e19447feb924afd5f22113d"
+  }
+ },
+ {
+  "build": 38,
+  "name": "3.8",
+  "date": "2026-10-16",
+  "notes": "Update-Knopf entfernt, Eingabefeld bleibt bei offener Tastatur sichtbar",
+  "gz": {
+   "file": "app/38.gz.bin",
+   "size": 788274,
+   "sha256": "1ed63b612d32a8f376ade236a2b8c7bf1c86782fb7e3697b2433444bc3f06fd7"
+  }
+ },
+ {
+  "build": 39,
+  "name": "3.9",
+  "date": "2026-10-16",
+  "notes": "Lernfeld Betriebsstellen zeichnen",
+  "gz": {
+   "file": "app/39.gz.bin",
+   "size": 794943,
+   "sha256": "4e58e01a296348a2181702ca3e5bd0c894fca281038c7e1453c79d243e7122ce"
+  }
+ },
+ {
+  "build": 40,
+  "name": "4.0",
+  "date": "2026-10-16",
+  "notes": "Werkzeug Weiche beim Zeichnen, Hinweise bei Fehlern",
+  "gz": {
+   "file": "app/40.gz.bin",
+   "size": 795694,
+   "sha256": "186cd0b8b98c68e72977e6699723c944a1b9a571f02c616d090d70912c7d3266"
+  }
+ },
+ {
+  "build": 41,
+  "name": "4.1",
+  "date": "2026-10-16",
+  "notes": "Weichen selbst zeichnen, orange wie im Lernposter",
+  "gz": {
+   "file": "app/41.gz.bin",
+   "size": 796154,
+   "sha256": "d480e5c1725f3f39a5fdd1aaf58e19ac3df054453f4c972171d01cf25f1a6d32"
+  }
+ },
+ {
+  "build": 42,
+  "name": "4.2",
+  "date": "2026-10-16",
+  "notes": "Nur echte Weichen zählen, Weichenzweig 45° zum Stammgleis",
+  "gz": {
+   "file": "app/42.gz.bin",
+   "size": 796850,
+   "sha256": "96d332395174e4331099b63577ccd2c4c9859f8742e36f4fdc958abd47fb3ece"
+  }
+ },
+ {
+  "build": 43,
+  "name": "4.3",
+  "date": "2026-10-16",
+  "notes": "Antipp-Hinweis beim ersten Öffnen, Töne für richtig und falsch",
+  "gz": {
+   "file": "app/43.gz.bin",
+   "size": 798243,
+   "sha256": "2cf3c474b4059bf9964a5e7679b50c0f87182870b37bc1a2655d11eb970be7bb"
+  }
+ },
+ {
+  "build": 44,
+  "name": "4.4",
+  "date": "2026-10-16",
+  "notes": "Antipp-Hinweis und Töne mit der Fassung aus der Web-Version zusammengeführt",
+  "gz": {
+   "file": "app/44.gz.bin",
+   "size": 798554,
+   "sha256": "be415cf66e2c134c052c137ec4847eb95d5a23dcac41cb2978f0a37a619e2db8"
+  }
+ },
+ {
+  "build": 45,
+  "name": "4.5",
+  "date": "2026-10-16",
+  "notes": "Tippfehler-Knopf nur bei echten Tippfehlern, Signal beim Lückentext",
+  "gz": {
+   "file": "app/45.gz.bin",
+   "size": 798943,
+   "sha256": "72ac82c78f443763176d635532b984b2e6d85d182cabc2fca48b000b8c020dad"
+  }
+ },
+ {
+  "build": 46,
+  "name": "4.6",
+  "date": "2026-10-17",
+  "notes": "Themen passen auf dem Handy ohne Scrollen auf einen Bildschirm",
+  "gz": {
+   "file": "app/46.gz.bin",
+   "size": 799117,
+   "sha256": "5baf0d325aa5b230a2bc19709c1eaae20114a9fc63978826602b94c6e413f787"
+  }
+ },
+ {
+  "build": 47,
+  "name": "4.7",
+  "date": "2026-10-17",
+  "notes": "Abschlussprüfung Definition, „In eigenen Worten“ überall und Anhang je Bereich",
+  "gz": {
+   "file": "app/47.gz.bin",
+   "size": 807167,
+   "sha256": "df0c745cab5846597de035ac6cebff0c818da95eb94595824fa2009ace90ea90"
+  }
+ },
+ {
+  "build": 48,
+  "name": "4.8",
+  "date": "2026-10-17",
+  "notes": "Antworterkennung erkennt Endungen, Abkürzungen, Zahlwörter und Signalnamen",
+  "gz": {
+   "file": "app/48.gz.bin",
+   "size": 808078,
+   "sha256": "a328746d63071270c15f85d8b0fc1509e641ea787117deffd289c62177e25bf4"
+  }
+ },
+ {
+  "build": 49,
+  "name": "4.9",
+  "date": "2026-10-17",
+  "notes": "Zug fährt die gezeichnete Betriebsstelle ab",
+  "gz": {
+   "file": "app/49.gz.bin",
+   "size": 811707,
+   "sha256": "3caf857a9cc88aa27274407d18c1e0a28b70870c60530320c867ab7c35bd4754"
+  }
+ },
+ {
+  "build": 50,
+  "name": "5.0",
+  "date": "2026-10-17",
+  "notes": "Vollständige Gleisbilder nach Ril 301 und 408",
+  "gz": {
+   "file": "app/50.gz.bin",
+   "size": 832497,
+   "sha256": "5ff09868c688d2c78268ef07c8557f560cbd429219c37feb4bfe9b1e5962fe29"
+  }
+ },
+ {
+  "build": 51,
+  "name": "5.1",
+  "date": "2026-10-18",
+  "notes": "Rangliste mit Siegertreppchen und glänzender Krone",
+  "gz": {
+   "file": "app/51.gz.bin",
+   "size": 834459,
+   "sha256": "917743f4e2c63a9baa80a241620c9058191ba99a4f5cea3f5ac6ce3a7d12df02"
+  }
+ },
+ {
+  "build": 52,
+  "name": "5.2",
+  "date": "2026-10-18",
+  "notes": "Teilnehmerliste mit freien Plätzen statt Punkteregeln",
+  "gz": {
+   "file": "app/52.gz.bin",
+   "size": 834403,
+   "sha256": "78b7b074ba01deca43c3421fdde11803fc64260eef1ae9c3caa7c2da6e567f19"
+  }
+ },
+ {
+  "build": 53,
+  "name": "5.3",
+  "date": "2026-10-18",
+  "notes": "Fachbegriffe erklärt (z. B. Fahrstraße)",
+  "gz": {
+   "file": "app/53.gz.bin",
+   "size": 842395,
+   "sha256": "b7f41a8e8ffd46103b3bd75a464435d2190bafe5a5c7a6daf738103293bdbf7a"
+  }
+ },
+ {
+  "build": 54,
+  "name": "5.4",
+  "date": "2026-10-18",
+  "notes": "Menü ☰ mit allen Versionen – zwischen den Versionen wechseln",
+  "gz": {
+   "file": "app/54.gz.bin",
+   "size": 845494,
+   "sha256": "14e15fe26696d7be01dc9820ad5c55a434a3304eb41eefcfd946a85d53253c4c"
+  }
+ }
+]

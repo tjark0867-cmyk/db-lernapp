@@ -3,6 +3,7 @@
 Inoffizielle Lernhilfe. Dieses Repository verteilt neue Versionen an die installierten Apps.
 
 * `version.json` – Nummer der aktuellen Version und Prüfsummen
+* `versions.json` – alle bisherigen Versionen (für die Versionsauswahl ☰ in der App)
 * `app/*.bin` – die App selbst, **verschlüsselt** (AES-256-GCM). Nur die installierte App kann sie öffnen.
 * `projekt.bin` – Sicherung des Projekts, **verschlüsselt** mit dem Projekt-Schlüssel des Besitzers.
 
