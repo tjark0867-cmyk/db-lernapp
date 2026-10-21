@@ -207,5 +207,16 @@
    "size": 845494,
    "sha256": "14e15fe26696d7be01dc9820ad5c55a434a3304eb41eefcfd946a85d53253c4c"
   }
+ },
+ {
+  "build": 55,
+  "name": "5.5",
+  "date": "2026-10-21",
+  "notes": "Oft verwechselt: Zugfolge- und Zugmeldestelle, Streckenblock und Bahnhofsblock erklärt",
+  "gz": {
+   "file": "app/55.gz.bin",
+   "size": 848214,
+   "sha256": "08fc191ad97c2fb1bcfc8c1f434f7819cbbcc90e8884d5ee8077e3ea131f812c"
+  }
  }
 ]
