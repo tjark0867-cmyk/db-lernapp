@@ -273,5 +273,16 @@
    "size": 927971,
    "sha256": "0b27411fda9be8e6c172ad5cb674fd92e1c288ea8da08e6474a5c6915a0a6fb7"
   }
+ },
+ {
+  "build": 61,
+  "name": "6.1",
+  "date": "2026-11-05",
+  "notes": "Seminare: Das neue Gebäudebild ist jetzt auf der Seminare-Kachel im Hauptmenü, die Kachel Bb1520 zeigt ihre sechs Themen.",
+  "gz": {
+   "file": "app/61.gz.bin",
+   "size": 928105,
+   "sha256": "be4689d5c6b01a95027ed54479a737825c8dcc7734d8303ad88c2b61e501a471"
+  }
  }
 ]
