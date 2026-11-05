@@ -262,5 +262,16 @@
    "size": 924907,
    "sha256": "11d90ef939beb8fc41e157920c24ca65c4c2200e30d7d8236c539f5d8fd336dd"
   }
+ },
+ {
+  "build": 60,
+  "name": "6.0",
+  "date": "2026-11-05",
+  "notes": "Seminare: Erst das Seminar auswählen (bisher Bb1520, mit neuem Bild), dann die Themen.",
+  "gz": {
+   "file": "app/60.gz.bin",
+   "size": 927971,
+   "sha256": "0b27411fda9be8e6c172ad5cb674fd92e1c288ea8da08e6474a5c6915a0a6fb7"
+  }
  }
 ]
