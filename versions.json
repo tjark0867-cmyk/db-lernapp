@@ -229,5 +229,16 @@
    "size": 848519,
    "sha256": "4a1b27a390e9b6797a3baf31bc305e82a0b48af33fdf440b262b44e22591cdd8"
   }
+ },
+ {
+  "build": 57,
+  "name": "5.7",
+  "date": "2026-11-05",
+  "notes": "Neuer Bereich Rangieren (Bb1520): 6 Kapitel zum Durchscrollen, Signale mit Bild, Karten, Quiz, Prüfung, Hören und Fachgespräch",
+  "gz": {
+   "file": "app/57.gz.bin",
+   "size": 906152,
+   "sha256": "f93eb1c0d2436f025f2693e4e1267a5998fcccfbbd865e9cdd2bd2f27c2d85fc"
+  }
  }
 ]
