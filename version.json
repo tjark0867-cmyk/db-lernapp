@@ -1,14 +1,14 @@
 {
- "build": 58,
- "name": "5.8",
+ "build": 59,
+ "name": "5.9",
  "gz": {
-  "file": "app/58.gz.bin",
-  "size": 920001,
-  "sha256": "0ca248f52305b538ebe7727e186a364407d2002e5f67dd38dcb16612330fc2b2"
+  "file": "app/59.gz.bin",
+  "size": 924907,
+  "sha256": "11d90ef939beb8fc41e157920c24ca65c4c2200e30d7d8236c539f5d8fd336dd"
  },
  "html": {
-  "file": "app/58.html.bin",
-  "size": 2087433,
-  "sha256": "fbf201f468fb3ea80b700de2acb48fa9eb92def11db572a2d8f838d75e7b248d"
+  "file": "app/59.html.bin",
+  "size": 2103758,
+  "sha256": "bd6cb9ddba290488a652b8f92dd2f9e10a511d7e49ae92215b0d6cd198c3f2d6"
  }
 }
