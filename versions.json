@@ -284,5 +284,16 @@
    "size": 928105,
    "sha256": "be4689d5c6b01a95027ed54479a737825c8dcc7734d8303ad88c2b61e501a471"
   }
+ },
+ {
+  "build": 62,
+  "name": "6.2",
+  "date": "2026-11-06",
+  "notes": "Seminar Bb1520: Signale jetzt wie in „Signale lernen“ mit Bildern und Wortlaut aus Ril 301; neues Vorschaubild für Bb1520; Schild „Seminar“ am Gebäude; weitere Inhalte aus der Seminarunterlage (Weichenarten, PEPSi, Signalabhängigkeit, BÜ-Regelwerke).",
+  "gz": {
+   "file": "app/62.gz.bin",
+   "size": 996915,
+   "sha256": "9fcdc1b1154ac7cf97671893e60c07e24cacace130759189a7c1e4556f087523"
+  }
  }
 ]
