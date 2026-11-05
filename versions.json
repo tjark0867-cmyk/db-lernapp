@@ -240,5 +240,16 @@
    "size": 906152,
    "sha256": "f93eb1c0d2436f025f2693e4e1267a5998fcccfbbd865e9cdd2bd2f27c2d85fc"
   }
+ },
+ {
+  "build": 58,
+  "name": "5.8",
+  "date": "2026-11-05",
+  "notes": "Rangieren neu aufgebaut wie 408 und Blockwerk: 15 Lektionen mit Verstehen, Üben, Check und Abschlussprüfung, Basis und Alles, Ablauf-Trainer, Oft verwechselt, Anhang. Neuer Bereich „Seminare“ auf der Startseite (unter Fachgespräch relevant), Rangieren liegt jetzt dort.",
+  "gz": {
+   "file": "app/58.gz.bin",
+   "size": 920001,
+   "sha256": "0ca248f52305b538ebe7727e186a364407d2002e5f67dd38dcb16612330fc2b2"
+  }
  }
 ]
