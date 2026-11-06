@@ -394,5 +394,16 @@
    "size": 1133605,
    "sha256": "bddfcc9953a17bce0fef92061607c233aad4e7a79b697d295116c7cdd22f1724"
   }
+ },
+ {
+  "build": 72,
+  "name": "7.2",
+  "date": "2026-11-06",
+  "notes": "Start-Bildschirm: Tastatur verschiebt nichts mehr, nur der Vorname ist Pflicht, der Ausweis-Name ist jetzt auch dein Name in der Rangliste. Neue Kulisse: weißer Holztisch, Büro mit zwei Bürostühlen, schwarzer Teppich und eine Kommode mit Form-Hauptsignal, Wartezeichen (W) und Grenzzeichen.",
+  "gz": {
+   "file": "app/72.gz.bin",
+   "size": 1135474,
+   "sha256": "00ca0c8d319f34249c686f2516839c8b9989565618e7ffc1e40cf31247323d28"
+  }
  }
 ]

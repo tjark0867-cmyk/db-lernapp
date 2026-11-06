@@ -1,14 +1,14 @@
 {
- "build": 71,
- "name": "7.1",
+ "build": 72,
+ "name": "7.2",
  "gz": {
-  "file": "app/71.gz.bin",
-  "size": 1133605,
-  "sha256": "bddfcc9953a17bce0fef92061607c233aad4e7a79b697d295116c7cdd22f1724"
+  "file": "app/72.gz.bin",
+  "size": 1135474,
+  "sha256": "00ca0c8d319f34249c686f2516839c8b9989565618e7ffc1e40cf31247323d28"
  },
  "html": {
-  "file": "app/71.html.bin",
-  "size": 2527980,
-  "sha256": "eae404a100c9b61e433533c14a6553493a7d0f2bde5f65042b5e661af6e96ea4"
+  "file": "app/72.html.bin",
+  "size": 2533947,
+  "sha256": "fa7228728b8273b8734f53fe448194c7527286ca58ed2c456a856e5dade78b29"
  }
 }
