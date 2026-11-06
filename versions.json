@@ -317,5 +317,16 @@
    "size": 1016807,
    "sha256": "3bab4ad9751e7993133f79ac4ea61b86e1300fb1bd5ff3689bd8821f222c7e59"
   }
+ },
+ {
+  "build": 65,
+  "name": "6.5",
+  "date": "2026-11-06",
+  "notes": "Weichensignale im Seminar nur noch Wn 1 und Wn 7 (Wn 2 bis Wn 6 entfernt, auch aus Fragen und Vergleichen).",
+  "gz": {
+   "file": "app/65.gz.bin",
+   "size": 1016577,
+   "sha256": "2aa0b8a81ee1068ca776bb3545dcfc09dc2e9047b3f12eb871ec16fab6990d01"
+  }
  }
 ]
