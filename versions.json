@@ -449,5 +449,16 @@
    "size": 1142626,
    "sha256": "3594b944c32259033b1bd4f8045ce4d9f4ef8052e248e4b71859127b33455201"
   }
+ },
+ {
+  "build": 77,
+  "name": "7.7",
+  "date": "2026-11-06",
+  "notes": "Interner Umbau: Quelltext nach Themen in Ordner aufgeteilt (Seminar 1520, Startbildschirm, Startmenü, Ril 301, Ril 408, Blockwerk, Definition, Rangliste, Sound, Updates …); App unverändert",
+  "gz": {
+   "file": "app/77.gz.bin",
+   "size": 1142719,
+   "sha256": "cf0ec3c6f56fdfa25932b0ebd777a1f1cd4d9aad69cb79be0ebe56055134aa4f"
+  }
  }
 ]
