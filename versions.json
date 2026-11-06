@@ -328,5 +328,16 @@
    "size": 1016577,
    "sha256": "2aa0b8a81ee1068ca776bb3545dcfc09dc2e9047b3f12eb871ec16fab6990d01"
   }
+ },
+ {
+  "build": 66,
+  "name": "6.6",
+  "date": "2026-11-06",
+  "notes": "Schraubenkupplung: Bild aus der Mitschrift eingebaut – Erkunden, Üben „Wo ist was?“ (im Bild antippen) und 8 neue Fragen mit markiertem Bauteil.",
+  "gz": {
+   "file": "app/66.gz.bin",
+   "size": 1107726,
+   "sha256": "32e5aa842808e28f66c86e3bad5f759af028f3d380a65ea37b21d526eed32faf"
+  }
  }
 ]
