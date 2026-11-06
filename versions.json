@@ -306,5 +306,16 @@
    "size": 1010766,
    "sha256": "43b24105f0abb9e82f98d9d75c5e1dee29a3397134b3dcd855ed0a913d87493f"
   }
+ },
+ {
+  "build": 64,
+  "name": "6.4",
+  "date": "2026-11-06",
+  "notes": "Weichen-Skizze neu: anliegende Zunge liegt an der Backenschiene an, Zungenwurzel fest, Zweiggleis und Lichtweichensignal (blinkt beim Umstellen). Neue Lektion Achszähler und Gleisfreimeldung mit Ril-408-Wortlaut. BÜ-Skizze mit richtigem Bü 2 und Überwachungssignal, Ril 301/408 ergänzt. Signal-Vorschaubilder in den Seminar-Lektionen.",
+  "gz": {
+   "file": "app/64.gz.bin",
+   "size": 1016807,
+   "sha256": "3bab4ad9751e7993133f79ac4ea61b86e1300fb1bd5ff3689bd8821f222c7e59"
+  }
  }
 ]
