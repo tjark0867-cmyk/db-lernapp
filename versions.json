@@ -295,5 +295,16 @@
    "size": 996915,
    "sha256": "9fcdc1b1154ac7cf97671893e60c07e24cacace130759189a7c1e4556f087523"
   }
+ },
+ {
+  "build": 63,
+  "name": "6.3",
+  "date": "2026-11-06",
+  "notes": "Neu aus den Videos: Aufbau der Oberleitung mit antippbarer Skizze, wie eine E-Lok fährt und bremst, Umstellvorgang einer Weiche in 3 Phasen, wie ein Hauptsignal auf Fahrt kommt. Dazu automatische Schranken mit Einschaltpunkt und Achszähler (aus Internet-Quellen). Alles als Video bzw. Internet-Quelle gekennzeichnet, keine Ril.",
+  "gz": {
+   "file": "app/63.gz.bin",
+   "size": 1010766,
+   "sha256": "43b24105f0abb9e82f98d9d75c5e1dee29a3397134b3dcd855ed0a913d87493f"
+  }
  }
 ]
