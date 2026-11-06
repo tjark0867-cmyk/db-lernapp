@@ -372,5 +372,16 @@
    "size": 1135596,
    "sha256": "40afb4024c566435b917a00410902c94bca71ed55697833f9fead87a91a20059"
   }
+ },
+ {
+  "build": 70,
+  "name": "7.0",
+  "date": "2026-11-06",
+  "notes": "Nur noch Inhalte aus deinen Unterlagen, den Videos, der Ril 408/301 und der EBO: Kuppeln-Schritt-für-Schritt (DGUV) entfernt, Druckluftbremse und Rangierkupplung auf die Seminarunterlage gekürzt, Internet-Inhalte zu automatischen Schranken entfernt, Grundwissen bei Oberleitung, Achszähler und Rangierbahnhof entfernt. Oberleitungs-Aufbau jetzt nach dem Bild der Seminarunterlage.",
+  "gz": {
+   "file": "app/70.gz.bin",
+   "size": 1129484,
+   "sha256": "766cfb5a0c1f99247d45f82f73acc80c5019c61f72e4f69c7aa374c50b4d6bc9"
+  }
  }
 ]
