@@ -405,5 +405,16 @@
    "size": 1135474,
    "sha256": "00ca0c8d319f34249c686f2516839c8b9989565618e7ffc1e40cf31247323d28"
   }
+ },
+ {
+  "build": 73,
+  "name": "7.3",
+  "date": "2026-11-06",
+  "notes": "Ausweis-Start nur beim ersten Öffnen; Mitarbeiter nimmt den Ausweis und legt ihn selbst auf den Leser; Kommode über die ganze Wand mit Hp 0, Hp 1, Hp 2, Ra 11 und Ra 12; Bürostühle direkt am Tisch; kein Fenster",
+  "gz": {
+   "file": "app/73.gz.bin",
+   "size": 1137313,
+   "sha256": "91063b5153926269af416a2588ad508e6ec24280b06c5e60b9ca24bc8cb474b4"
+  }
  }
 ]
