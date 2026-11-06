@@ -339,5 +339,16 @@
    "size": 1107726,
    "sha256": "32e5aa842808e28f66c86e3bad5f759af028f3d380a65ea37b21d526eed32faf"
   }
+ },
+ {
+  "build": 67,
+  "name": "6.7",
+  "date": "2026-11-06",
+  "notes": "Neue Töne für richtig und falsch: heller Glocken-Zweiklang mit Funkeln, der bei jeder richtigen Antwort in Folge höher klingt, Extra-Klang bei 5, 10 und 15 in Folge, große Fanfare beim Bestehen, kurzes Vibrieren am Handy. Schraubenkupplung: Wörter jetzt ins Bild ziehen (oder antippen und Stelle wählen).",
+  "gz": {
+   "file": "app/67.gz.bin",
+   "size": 1111026,
+   "sha256": "2ffca8b6987b735b2e89715e911cbef0938ea23d2554148e7633e277d76fabf8"
+  }
  }
 ]
