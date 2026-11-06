@@ -416,5 +416,16 @@
    "size": 1137313,
    "sha256": "91063b5153926269af416a2588ad508e6ec24280b06c5e60b9ca24bc8cb474b4"
   }
+ },
+ {
+  "build": 74,
+  "name": "7.4",
+  "date": "2026-11-06",
+  "notes": "Ausweis gültig bis 12/30; Mitarbeiter schaut sich den Ausweis an und spricht dich mit Namen an; Arm mit Ellbogen; Startseite mit weniger Text",
+  "gz": {
+   "file": "app/74.gz.bin",
+   "size": 1138924,
+   "sha256": "274333f75c9310756e3773e3d1326a2991d3cb44d16b6265a46e2d377b856c8a"
+  }
  }
 ]
