@@ -383,5 +383,16 @@
    "size": 1129484,
    "sha256": "766cfb5a0c1f99247d45f82f73acc80c5019c61f72e4f69c7aa374c50b4d6bc9"
   }
+ },
+ {
+  "build": 71,
+  "name": "7.1",
+  "date": "2026-11-06",
+  "notes": "Neuer Start: Namen auf den Lernapp-Ausweis tippen, Ausweis fliegt auf den Kartenleser auf dem Tisch, Zugang erteilt, Schiebetür geht auf. Später startet die App mit der kurzen Version (antippen überspringt). Name ändern im Menü unter Ausweis.",
+  "gz": {
+   "file": "app/71.gz.bin",
+   "size": 1133605,
+   "sha256": "bddfcc9953a17bce0fef92061607c233aad4e7a79b697d295116c7cdd22f1724"
+  }
  }
 ]
