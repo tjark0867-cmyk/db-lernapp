@@ -427,5 +427,16 @@
    "size": 1138924,
    "sha256": "274333f75c9310756e3773e3d1326a2991d3cb44d16b6265a46e2d377b856c8a"
   }
+ },
+ {
+  "build": 75,
+  "name": "7.5",
+  "date": "2026-11-06",
+  "notes": "Begrüßung „Guten Tag“ statt „Moin“; Ausweis-Animation etwas ruhiger; ICE-Türsound beim Schließen (Warntöne) und Öffnen (Druckluft)",
+  "gz": {
+   "file": "app/75.gz.bin",
+   "size": 1139660,
+   "sha256": "e7d59b4175844c39ea7c9a5ebb9e805f248f39d7c443c34870299e8979283ecf"
+  }
  }
 ]
