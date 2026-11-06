@@ -350,5 +350,16 @@
    "size": 1111026,
    "sha256": "2ffca8b6987b735b2e89715e911cbef0938ea23d2554148e7633e277d76fabf8"
   }
+ },
+ {
+  "build": 68,
+  "name": "6.8",
+  "date": "2026-11-06",
+  "notes": "Neues Sounddesign: alle Klänge werden einmal vorab berechnet und auf gleiche Lautstärke gebracht – sofortige Wiedergabe, nie zwei Klänge übereinander. Richtig (wird mit der Serie heller), Falsch (weich), Serie bei 5/10/15, neue Bestleistung, Runde geschafft, Lektion/Prüfung bestanden. Töne und Vibration im Menü oben rechts ein- und ausschaltbar, mit Probehören.",
+  "gz": {
+   "file": "app/68.gz.bin",
+   "size": 1116214,
+   "sha256": "d27e8f1125c2f2c39804af4201642e8ff4fb2168fdcced9a08edeb270b5ad2f3"
+  }
  }
 ]
