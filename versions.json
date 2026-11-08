@@ -471,5 +471,16 @@
    "size": 1147601,
    "sha256": "c152e660700dd533629608699a65a2512c85d5d54aa3cdaa0461fd786fb78ee9"
   }
+ },
+ {
+  "build": 79,
+  "name": "7.9",
+  "date": "2026-11-08",
+  "notes": "Neue Quellen eingearbeitet: Ril 915.01 Bremsvorschrift (Druckluftbremse, neue Karte Bremsen beim Rangieren, Sichern/Festlegen, verminderter Reibwert), Handbuch Bahnübergänge (Überwachungsarten, Grundstellungszeit, HET, Rangierschalter, nicht ausreichend gesichert), Funkchronik einer Rangierfahrt; 48 neue Lernkarten",
+  "gz": {
+   "file": "app/79.gz.bin",
+   "size": 1157543,
+   "sha256": "f2e48adae4790c17548b948b3f7ff1f42e073fb2c50fa6d8e2e2083f40e95113"
+  }
  }
 ]
