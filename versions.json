@@ -493,5 +493,16 @@
    "size": 1157735,
    "sha256": "df0c3b884c136a94c0c98c75f55eb0dac3bc3e85afc9f643b2e8eea9f107b927"
   }
+ },
+ {
+  "build": 81,
+  "name": "8.1",
+  "date": "2026-11-09",
+  "notes": "Neue Skizze „Weiche spitz und stumpf befahren“ zum Antippen: Überblick, spitz, stumpf aus dem Stammgleis, stumpf aus dem Zweiggleis (Auffahren); 4 neue Lernkarten",
+  "gz": {
+   "file": "app/81.gz.bin",
+   "size": 1159928,
+   "sha256": "8804822c8672bacb1ecb775b4adc60e491e80d1606de2c2abea0850e43a13cf2"
+  }
  }
 ]
