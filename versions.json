@@ -482,5 +482,16 @@
    "size": 1157543,
    "sha256": "f2e48adae4790c17548b948b3f7ff1f42e073fb2c50fa6d8e2e2083f40e95113"
   }
+ },
+ {
+  "build": 80,
+  "name": "8.0",
+  "date": "2026-11-09",
+  "notes": "Weichen-Skizze korrigiert: Zungenlage passt jetzt zum Weichensignal Wn 1 (gerade Zunge liegt an, gebogene Zunge liegt sichtbar ab); Hinweis auf die abzweigende Stellung im Bild der Unterlage S. 55",
+  "gz": {
+   "file": "app/80.gz.bin",
+   "size": 1157735,
+   "sha256": "df0c3b884c136a94c0c98c75f55eb0dac3bc3e85afc9f643b2e8eea9f107b927"
+  }
  }
 ]
